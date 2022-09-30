@@ -1,0 +1,37 @@
+[
+    {
+        "Nombre":"Lionel Messi",
+        "Edad":"35",
+        "Equipo":"PSG",
+        "Pais":"Argentina",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lionel_Messi_20180626.jpg/245px-Lionel_Messi_20180626.jpg"
+    },
+    {
+        "Nombre":"Cristiano Ronaldo",
+        "Edad":"37",
+        "Equipo":"Manchester United",
+        "Pais":"Portugal",
+        "img":"https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/06/24/16245558914634.jpg"
+    },
+    {
+        "Nombre":"Neymar Jr",
+        "Edad":"30",
+        "Equipo":"PSG",
+        "Pais":"Brasil",
+        "img":"https://imagenes.elpais.com/resizer/B9PHqy1z6p-EHDPw7y8lKowfz38=/1960x1470/filters:focal(1690x586:1700x596)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/FCGE3FZSEXQZ2IBUEKSGGLH6HQ.jpg"
+    },
+    {
+        "Nombre":"Kylian Mbappe",
+        "Edad":"23",
+        "Equipo":"PSG",
+        "Pais":"Francia",
+        "img":"https://media.gq.com.mx/photos/614f44861e32a9e8690c0bc4/master/pass/mbappe.jpg"
+    },
+    {
+        "Nombre":"Erling Haaland",
+        "Edad":"22",
+        "Equipo":"Manchester City",
+        "Pais":"Noruega",
+        "img":"https://phantom-marca.unidadeditorial.es/cb6c805c23a73d567de4eca0d119dd8c/resize/1320/f/jpg/assets/multimedia/imagenes/2022/09/09/16627382249936.jpg"
+    }
+]
