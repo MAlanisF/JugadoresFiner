@@ -3,6 +3,7 @@
       "Name": "Lionel Messi",
       "Edad": "35 años",
       "Equipo": "PSG",
+      "Descripcion":"Lionel Andrés Messi Cuccittini, conocido como Leo Messi, es un futbolista argentino que juega como delantero o centrocampista. Jugador histórico del Fútbol Club Barcelona, al que estuvo ligado veinte años, desde 2021 integra el plantel del Paris Saint-Germain de la Ligue 1 de Francia.",
       "Pais": "Argentina",
       "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lionel_Messi_20180626.jpg/245px-Lionel_Messi_20180626.jpg"
     },
@@ -10,6 +11,7 @@
       "Name": "Cristiano Ronaldo",
       "Edad": "37 años",
       "Equipo": "Manchester United",
+      "Descripcion":"Cristiano Ronaldo dos Santos Aveiro, conocido como Cristiano Ronaldo, es un futbolista portugués que juega como delantero o extremo. Jugador histórico, estuvo ligado a diversos equipos importantes antes de integrar desde 2021 el plantel del Manchester United Football Club de la Premier League de Inglaterra. ",
       "Pais": "Portugal",
       "Image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/06/24/16245558914634.jpg"
     },
@@ -17,6 +19,7 @@
       "Name": "Neymar Jr",
       "Edad": "30 años",
       "Equipo": "PSG",
+      "Descripcion":"Neymar da Silva Santos Júnior, conocido como Neymar Júnior o simplemente Neymar, es un futbolista brasileño que juega como delantero en el Paris Saint-Germain F. C. de la Ligue 1 de Francia, y en la selección de fútbol de Brasil.​",
       "Pais": "Brasil",
       "Image": "https://imagenes.elpais.com/resizer/B9PHqy1z6p-EHDPw7y8lKowfz38=/1960x1470/filters:focal(1690x586:1700x596)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/FCGE3FZSEXQZ2IBUEKSGGLH6HQ.jpg"
     },
@@ -24,6 +27,7 @@
       "Name": "Kylian Mbappe",
       "Edad": "23 años",
       "Equipo": "PSG",
+      "Descripcion":"Kylian Mbappé Lottin es un futbolista francés que juega como delantero en el Paris Saint-Germain F. C. de la Ligue 1. Comenzó su carrera con el club Mónaco de la Ligue 1, haciendo su debut profesional en 2015, a los 16 años.",
       "Pais": "Francia",
       "Image": "https://media.gq.com.mx/photos/614f44861e32a9e8690c0bc4/master/pass/mbappe.jpg"
     },
@@ -31,6 +35,7 @@
       "Name": "Erling Haaland",
       "Edad": "22 años",
       "Equipo": "Manchester City",
+      "Descripcion":"Erling Braut Haaland es un futbolista noruego que juega como delantero en el Manchester City F. C. de la Premier League de Inglaterra, ​ y en la selección de fútbol de Noruega.",
       "Pais": "Noruega",
       "Image": "https://phantom-marca.unidadeditorial.es/cb6c805c23a73d567de4eca0d119dd8c/resize/1320/f/jpg/assets/multimedia/imagenes/2022/09/09/16627382249936.jpg"
     },
@@ -38,6 +43,7 @@
       "Name": "Kevin De Bruyne",
       "Edad": "31 años",
       "Equipo": "Manchester City",
+      "Descripcion":"Kevin De Bruyne es un futbolista belga que juega como centrocampista en el Manchester City F. C. de la Premier League de Inglaterra, donde es el segundo capitán. Es internacional absoluto con la selección de Bélgica.",
       "Pais": "Belgica",
       "Image": "https://www.soyfutbol.com/__export/1658706622368/sites/debate/img/2022/07/24/kevin_de_bruyne_manchester_city_premier_league_2022-2023_afp.jpg_1902800913.jpg"
     },
@@ -45,6 +51,7 @@
       "Name": "Robert Lewandowski",
       "Edad": "34 años",
       "Equipo": "Barcelona",
+      "Descripcion":"Robert Lewandowski es un futbolista polaco que juega como delantero en el F. C. Barcelona de la Primera División de España. Es también internacional absoluto con la selección de Polonia desde 2008, de la cual es su capitán y máximo goleador histórico",
       "Pais": "Polonia",
       "Image": "https://img.europapress.es/fotoweb/fotonoticia_20220720190811_420.jpg"
     }
